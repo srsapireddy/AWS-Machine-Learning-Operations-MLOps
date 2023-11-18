@@ -144,7 +144,6 @@ Approving Review for Dev
 ![image](https://github.com/srsapireddy/AWS-Machine-Learning-Operations-MLOps/assets/32967087/b76d6d03-4642-4094-92b7-e09975a893a2)
 
 ### Dev-Deploy WebApp
-![image](https://github.com/srsapireddy/AWS-Machine-Learning-Operations-MLOps/assets/32967087/d2d64c58-48f0-438e-a48b-0fe39acffd2c)
 ![image](https://github.com/srsapireddy/AWS-Machine-Learning-Operations-MLOps/assets/32967087/aa953c0c-4c4d-44e6-b341-d707105be646)
 
 However, the production server will be serving the old app. After we approve the prod to be deployed, we get the updated prod web app server with new features.
