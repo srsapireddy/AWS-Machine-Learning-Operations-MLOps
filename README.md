@@ -152,6 +152,9 @@ However, the production server will be serving the old app. After we approve the
 ### Prod-Deploy WebApp
 ![image](https://github.com/srsapireddy/AWS-Machine-Learning-Operations-MLOps/assets/32967087/595a72bb-fe7f-4d74-a644-7f7d3e3101cb)
 
+### Checking GitHub Commits
+![image](https://github.com/srsapireddy/AWS-Machine-Learning-Operations-MLOps/assets/32967087/f5b36b73-1578-4b55-b77b-09cebdf75b91)
+![image](https://github.com/srsapireddy/AWS-Machine-Learning-Operations-MLOps/assets/32967087/7160ab32-ecc9-42db-83a6-0b778375b499)
 
 
 ## AWS SageMaker
